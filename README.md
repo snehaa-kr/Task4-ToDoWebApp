@@ -2,7 +2,7 @@ To-Do Web App
 
 A simple yet interactive and user-friendly To-Do App designed to help you organize your tasks efficiently. This app allows users to add, edit, delete, and mark tasks as completed, with the ability to set specific due dates and times for each task.
 
-Features
+Features:
 
 • Add Tasks: Enter a task with a description   and a due date/time.
 
@@ -17,7 +17,7 @@ Features
 • Responsive Design: Fully functional on       both desktop and mobile devices.
 
 
-Technologies Used
+Technologies Used:
 
 • HTML5: For structuring the app layout.
 
